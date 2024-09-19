@@ -1,0 +1,19 @@
+.flex-container {
+    display: flex;
+    height: 580px;
+    background-color: paleturquoise;
+    justify-content: center;
+    align-items: center;
+}
+
+.flex-container > div {
+    background-color: #f1f1f1;
+    margin: 10px;
+    padding: 20px;
+    font-size: 11px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+}
+
+
+
