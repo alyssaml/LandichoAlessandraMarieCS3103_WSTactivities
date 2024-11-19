@@ -14,7 +14,6 @@ body {
     padding: 20px; 
     border-radius: 10px; 
 }
-
 .textarea-box {
     width: 400px;
     height: 300px;
@@ -23,8 +22,6 @@ body {
     border-radius: 5px;
     font-size: 16px;
 }
-
-
 #wordcount, #sentenceCount {
     margin-top: 10px;
     font-size: 16px;
