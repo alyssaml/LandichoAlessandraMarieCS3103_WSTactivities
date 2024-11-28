@@ -1,0 +1,37 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+.flex-container {
+    display: flex;
+    flex-wrap: wrap;
+    height: 580px;
+    background-color: paleturquoise;
+    background-image: linear-gradient(180deg, #A888B5, #EFB6C8);
+    justify-content: center;
+    align-items: center;
+
+}
+.flex-container > div {
+    background-color: #EEEEEE;
+    margin: 10px;
+    padding: 20px;
+    font-size: 11px;
+    border-radius: 8px;
+    border: 2px solid #006A67;
+    font-family: "Poppins", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    text-align: center;
+}
+h2 {
+    color: #987D9A;
+    text-shadow: 1px 1px 2px #674188, 0 0 25px #E2BFD9, 0 0 5px #C8A1E0;
+}
+p {
+    color: #4A249D;
+}
+.fa-regular.fa-user, .fa-regular.fa-address-card, .fa-regular.fa-file{
+    color: #8174A0;
+    font-size: 25px;
+}
